@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "unb-servico": {
+      "description": "A blank schematic.",
+      "factory": "./unb-servico/index#unbServico"
+    }
+  }
+}
