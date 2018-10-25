@@ -1,6 +1,6 @@
 {
   "name": "schematic-unb-servico",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A schematic to generate services for the unb-servicos architecture",
   "scripts": {
     "build": "tsc -p tsconfig.json",
